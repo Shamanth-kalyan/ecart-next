@@ -1,0 +1,46 @@
+[
+	{
+		"id": 1,
+		"name": "Product 1",
+		"type": "Home Decor",
+		"description": "Good Item you can have for your Home",
+		"rating": "3",
+		"review": {
+			"comment": "Good product",
+			"feedback": "Can be better"
+		}
+	},
+	{
+		"id": 2,
+		"name": "Product 2",
+		"type": "Bike accessories",
+		"description": "Good Item you can have for your Bike",
+		"rating": "4",
+		"review": {
+			"comment": "Great quality",
+			"feedback": "Need different color"
+		}
+	},
+	{
+		"id": 3,
+		"name": "Product 3",
+		"type": "Pooja Room Item",
+		"description": "Good Item you can have for your Pooja Room",
+		"rating": "5",
+		"review": {
+			"comment": "Good product",
+			"feedback": "Can be better"
+		}
+	},
+	{
+		"id": 1,
+		"name": "Product 4",
+		"type": "Home Decor",
+		"description": "Good Item you can have for your Home",
+		"rating": "1",
+		"review": {
+			"comment": "Bad product",
+			"feedback": "Need to improve everything"
+		}
+	}
+]
